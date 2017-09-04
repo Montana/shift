@@ -1,6 +1,6 @@
 # ShiftJIS
 
-Converter for SJIS(shift_jis) and MS932(Windows-31J).
+Converter for SJIS (shift_jis) and MS932(Windows-31J).
 
 Convertion table (Hash map) in partuclar from ShiftJIS units to UTF code units. This is hard-corded in <pre>sjis_utf_map.dart</pre>
 
